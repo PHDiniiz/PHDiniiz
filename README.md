@@ -30,8 +30,8 @@ Desenvolvedor Fullstack com 6 anos de experiência em JavaScript, especializado 
 ### Desenvolvedor Fullstack JS  
 **e-Auditoria | Juiz de Fora, MG**
 *Jul 2024 – Mar 2025*  
-- Trabalhei em produtos internos que utilizam ReactJS (Micro frontend) e NextJS, reduzindo bugs, desenvolvendo testes (coverage de 11.3% para 43% - utilizando Jest/TestingLibrary) e novas funcionalidades nos produtos.  
-- Participei de code reviews e sprints ágeis, garantindo 95% de entrega no prazo.
+- Trabalhei em produtos internos que utilizam ReactJS (Micro frontend) e NextJS, reduzindo bugs, desenvolvendo testes (coverage de 11.3% para 53.7% - utilizando Jest/TestingLibrary) e novas funcionalidades em 5 produtos diferentes; 
+- Participei de code reviews e sprints ágeis, garantindo 95% de entrega no prazo;
 
 ### Analista de Suporte Técnico - Nível 2
 **e-Auditoria | Juiz de Fora, MG**
@@ -45,10 +45,10 @@ Desenvolvedor Fullstack com 6 anos de experiência em JavaScript, especializado 
 ### Desenvolvedor FullStack JS
 **Durch Soluções em Desenvolvimento de Softwares LTDA | Belo Horizonte, MG (Remoto - PJ)**
 *Mar 2018 – atual*  
-- Desenvolvi interfaces responsivas com NextJS na Central do Cliente, melhorando o controle dos usuários 90%.
-- Desenvolvi a API Rest com NestJS integrando ao MongoDB (utilizando Mongoose).
-- Desenvolvi o Backend dos produtos Edificium.com.br e ZappFood.com.br em NestJS integrado ao MongoDB.
-- Colaborei na integração com APIs externas usando Axios (validação de CNPJ diretamente na RFB, Busca de CEP retornando o endereço entre outros).  
+- Desenvolvi interfaces responsivas com NextJS na Central do Cliente, melhorando o controle dos usuários 90%;
+- Desenvolvi a API Rest com NestJS integrando ao MongoDB (utilizando Mongoose);
+- Desenvolvi o Backend dos produtos Edificium.com.br e ZappFood.com.br em NestJS integrado ao MongoDB;
+- Colaborei na integração com APIs externas usando Axios (validação de CNPJ diretamente na RFB, Busca de CEP retornando o endereço entre outros);  
 
 ---
 
@@ -56,17 +56,17 @@ Desenvolvedor Fullstack com 6 anos de experiência em JavaScript, especializado 
 
 ### Task Manager  
 *Aplicação de tarefas com real-time updates*  
-- Tecnologias: ReactJS (NextJS), WebSocket, MongoDB  
+- Tecnologias: ReactJS (NextJS), WebSocket, MongoDB;
 - Repositório: (privado)
   
 ### CashMaster  
 *Aplicação para controle financeiro pessoal com real-time*  
-- Tecnologias: ReactNative (Expo), SWR com Axios, Firebase e AntDesign 5
+- Tecnologias: ReactNative (Expo), SWR com Axios, Firebase e AntDesign 5;
 - Repositório: (privado)
   
 ### BxC - Base de Consultas
 *Sistema de consultas de GTIN diretamente no Ambiente Nacional (SVRS) através de certificado digital modelo A1*  
-- Tecnologias: NextJS + MaterialUI + SWR + Zustand (Frontend), API restful com NestJS, Workers (buscadores) em NestJS (microsserviço) e banco de dados MongoDB
+- Tecnologias: NextJS + MaterialUI + SWR + Zustand (Frontend), API restful com NestJS, Workers (buscadores - microsserviço) em NestJS e banco de dados MongoDB;
 - Repositório: (privado)
 
 ---
