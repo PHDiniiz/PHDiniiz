@@ -5,9 +5,92 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phdiniiz" alt="phdiniiz" /></a> </p>
 
-- 🔭 I’m currently working on **privated projects**
+# Pedro Henrique Diniz
+**Desenvolvedor Web JavaScript Fullstack**  
+pedro@durch.com.br | (32) 98464-8110 | [linkedin.com/in/phdiniiz](https://www.linkedin.com/in/phdiniiz) | [github.com/PHDiniiz]([https://github.com/joaosilva](https://github.com/PHDiniiz))  
 
-- 👯 I’m looking to collaborate on **ReactJS, ReactNative**
+---
+
+## Resumo  
+Desenvolvedor Fullstack com 6 anos de experiência em JavaScript, especializado em React e Node.js. Desenvolvi soluções escaláveis para SaaS, com foco em performance e UX. Conhecimento em TypeScript, AWS e metodologias ágeis.  
+
+---
+
+## Habilidades Técnicas  
+- **Frontend**: JavaScript (ES6+), React.js, HTML5, CSS3, MaterialUI, AntDesign, TailwindCSS e Shadcn
+- **Backend**: Node.js, Express.js, Nest.js, Adonis.js, REST APIs  
+- **Bancos de Dados**: MongoDB, MySQL, PostgreSQL, SQLite
+- **Ferramentas**: Git, Docker, Jest, CI/CD  
+- **Outros**: TypeScript, AWS (S3, EC2), GCP 
+
+---
+
+## Experiência Profissional  
+
+### Desenvolvedor Fullstack JS  
+**e-Auditoria** | Juiz de Fora, MG
+*Jul 2024 – Mar 2025*  
+- Trabalhei em produtos internos que utilizam ReactJS (Micro frontend) e NextJS, reduzindo bugs, desenvolvendo testes (coverage de 11.3% para 43% - utilizando Jest/TestingLibrary) e novas funcionalidades nos produtos.  
+- Participei de code reviews e sprints ágeis, garantindo 95% de entrega no prazo.
+
+### Desenvolvedor FullStack JS
+**Durch Soluções em Desenvolvimento de Softwares LTDA** | Belo Horizonte, MG (Remoto - PJ)
+*Mar 2021 – atual*  
+- Desenvolvi interfaces responsivas com NextJS na Central do Cliente, melhorando o controle dos usuários 90%.
+- Desenvolvi a API Rest com NestJS integrando ao MongoDB (utilizando Mongoose).
+- Desenvolvi o Backend dos produtos Edificium.com.br e ZappFood.com.br em NestJS integrado ao MongoDB.
+- Colaborei na integração com APIs externas usando Axios (validação de CNPJ diretamente na RFB, Busca de CEP retornando o endereço entre outros).  
+
+---
+
+## Projetos Pessoais  
+
+### Task Manager  
+*Aplicação de tarefas com real-time updates*  
+- Tecnologias: ReactJS (NextJS), WebSocket, MongoDB  
+- Repositório: (privado)
+  
+### CashMaster  
+*Aplicação para controle financeiro pessoal com real-time*  
+- Tecnologias: ReactNative (Expo), SWR com Axios, Firebase e AntDesign 5
+- Repositório: (privado)
+  
+### BxC - Base de Consultas
+*Sistema de consultas de GTIN diretamente no Ambiente Nacional (SVRS) através de certificado digital modelo A1*  
+- Tecnologias: NextJS + MaterialUI + SWR + Zustand (Frontend), API restful com NestJS, Workers (buscadores) em NestJS (microsserviço) e banco de dados MongoDB
+- Repositório: (privado)
+
+---
+
+## Formação  
+**Análise e Desenvolvimento de Sistemas**  
+Universidade Estácio de Sá - Juiz de Fora - MG | 2025
+
+---
+
+## Certificações  
+- Redes de Computadores (Prime Cursos) - 2016
+- Next.JS e React (Leonardo Moura Leitão - COD3R Cursos) - 2021
+- API completa com AdonisJS, TypeScript e TDD (Giuliana Silva Bezerra) - 2021
+- NextJS do zero ao avançado na prática (Matheus Fraga - Sujeito Programador) - 2021
+- TypeScript - do zero ao avançado (Matheus Fraga - Sujeito Programador) - 2022
+- React e TypeScript (Rodrigo Gonçalves Santana) - 2022
+- MongoDB - NoSQL do básico ao avançado (Renan Pallin) - 2022
+- React + Redux (Leonardo Moura Leitão, C0D3R Cursos) - 2022
+- Docker do 0 à Maestria: Contêineres Desmistificados (Leandro Costa) - 2022
+- Microsoft Azure Fundamentals (AZ-900) (KaSolution e Microsoft Partner – Gold Learning) - 2023
+- Arquitetura de Software - Introdução ao desenvolvimento de  sistemas sustentáveis (LinkedIn Learning) - 2023
+- Fundamentos de Computação em Nuvem na AWS (DIO Pro) - 2023
+- DPO & LGPD na prática (KaSolution) - 2024
+- NestJS do Zero com TypeORM, Mongoose, Prisma e Swagger  (Jorge Aluizio Alves de Souza) - 2024
+- Testes automatizados com Testing Library no React (Alura) - 2025
+- React: Desenvolva aplicações Web usando JSX e Hooks (Alura) - 2025
+
+---
+
+## Idiomas  
+- Português (Nativo)  
+- Inglês (Avançado – leitura, escrita e conversação técnica)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
