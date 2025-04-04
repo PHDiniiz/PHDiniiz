@@ -28,13 +28,13 @@ Desenvolvedor Fullstack com 6 anos de experiência em JavaScript, especializado 
 ## Experiência Profissional  
 
 ### Desenvolvedor Fullstack JS  
-**e-Auditoria** | Juiz de Fora, MG**
+**e-Auditoria | Juiz de Fora, MG**
 *Jul 2024 – Mar 2025*  
 - Trabalhei em produtos internos que utilizam ReactJS (Micro frontend) e NextJS, reduzindo bugs, desenvolvendo testes (coverage de 11.3% para 43% - utilizando Jest/TestingLibrary) e novas funcionalidades nos produtos.  
 - Participei de code reviews e sprints ágeis, garantindo 95% de entrega no prazo.
 
 ### Analista de Suporte Técnico - Nível 2
-**e-Auditoria** | Juiz de Fora, MG**
+**e-Auditoria | Juiz de Fora, MG**
 *Abr 2019 – Jul 2024*  
 - Atendimento e suporte técnico aos usuários de softwares instalados pela empresa, solucionando os problemas relatados para garantir o bom desempenho dos programas;
 - Realização de backup de dados e informações, criando cópias de segurança dos arquivos, possibilitando a restauração quando necessário;
@@ -43,7 +43,7 @@ Desenvolvedor Fullstack com 6 anos de experiência em JavaScript, especializado 
 - Responsável pela gestão de atendimento via ZenDesk (configurações, direcionamentos, regras de negócios...);
 
 ### Desenvolvedor FullStack JS
-**Durch Soluções em Desenvolvimento de Softwares LTDA** | Belo Horizonte, MG (Remoto - PJ)**
+**Durch Soluções em Desenvolvimento de Softwares LTDA | Belo Horizonte, MG (Remoto - PJ)**
 *Mar 2018 – atual*  
 - Desenvolvi interfaces responsivas com NextJS na Central do Cliente, melhorando o controle dos usuários 90%.
 - Desenvolvi a API Rest com NestJS integrando ao MongoDB (utilizando Mongoose).
